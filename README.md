@@ -1,2 +1,1 @@
-# tactstim_rest_current_biology
-Initial submission code for Current Biology
+# tactstim_rest_code
